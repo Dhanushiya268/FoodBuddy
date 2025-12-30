@@ -2,13 +2,6 @@
 
 A full-stack food delivery platform with Admin Dashboard and User Frontend, built using React, Node.js, Express, MongoDB, and deployed on Vercel + Render.
 
-🚀 Live Demo
-
-🌐 Live Demo  → https://food-del-frontend-qnfy.onrender.com
-
-
-
-
 📌 Features
 👨‍💻 User (Frontend)
 
